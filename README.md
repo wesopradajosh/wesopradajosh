@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Whisian
+- 👋 Hi, I’m Josh
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 follow 1josheewa on ig, email: joshuadimerymain@gmail.com
+- 📫 email: joshuadimerymain@gmail.com
 
 <!---
 Whisian/Whisian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
