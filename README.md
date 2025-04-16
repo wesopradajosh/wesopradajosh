@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Josh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+echo "Hi, I’m Josh"
+I am interested in and am currently
+learning about systems/network administration
 - 📫 email: joshuadimerymain@gmail.com
 
 <!---
