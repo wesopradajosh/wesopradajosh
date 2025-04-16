@@ -1,6 +1,5 @@
 echo "Hi, I’m Josh"
-I am interested in and am currently
-learning about systems/network administration
+I am interested in systems/network administration
 - 📫 email: joshuadimerymain@gmail.com
 
 <!---
